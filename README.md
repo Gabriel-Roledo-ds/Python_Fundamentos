@@ -33,4 +33,4 @@ nível de complexidade. Novos blocos são adicionados conforme o curso avança.
 | 04 | Comissão de vendas |
 | 05 | Economia de consumo de energia |
 | 06 | Média final ponderada de aluno |
-| ... | listas com exercicios variados |
+| ... | Listas com exercicios variados |
